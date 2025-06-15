@@ -1,0 +1,12 @@
+com\ascendcorp\exam\service\InquiryService.class
+com\ascendcorp\exam\model\TransferResponse.class
+com\ascendcorp\exam\exception\InternalServerErrorException.class
+com\ascendcorp\exam\ExamApplication.class
+com\ascendcorp\exam\exception\TransactionErrorException.class
+com\ascendcorp\exam\model\InquiryServiceResultDTO.class
+com\ascendcorp\exam\exception\WebServerErrorException.class
+com\ascendcorp\exam\exception\DataTypeInvalidException.class
+com\ascendcorp\exam\proxy\BankProxyGateway.class
+com\ascendcorp\exam\service\InquiryService$ReasonCode.class
+com\ascendcorp\exam\exception\GeneralInvalidDataException.class
+com\ascendcorp\exam\model\TransferRequest.class
