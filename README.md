@@ -1,3 +1,5 @@
+--ลองฝึกทำตามข้อสอบนี้ครับ--
+
 # Exam Overview
 
 
@@ -9,9 +11,6 @@ You are working for a software development company and have been assigned a task
 
  -  Test Class: **InquiryServiceTest.java**
  -  Service Class: **InquiryService.java**
-
-
-If you have any questions, feel free to contact  <sunpawet.som@ascendcorp.com>
 
 
 ## Instructions
